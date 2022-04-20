@@ -1,16 +1,22 @@
-### Hi there 👋
+# Claire Morgan-Sanders
+<img src="https://i.etsystatic.com/30670455/r/il/f36fdd/3718686733/il_340x270.3718686733_g1u5.jpg">
 
-<!--
-**crmo2444/crmo2444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Interests
+1. Video Games
+1. Food
+1. My dogs
+1. Working out
+1. Coding
 
-Here are some ideas to get you started:
+## What I Am Learning
+* Javascript
+* HTML
+* CSS
+* React
+* Python
+* C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Example Table
+|Hello |World |Hello |
+|-|-|-|
+|Javascript|HTML|CSS|
